@@ -1,0 +1,191 @@
+﻿Contract,InternetService,OnlineSecurity,PaperlessBilling,PaymentMethod,PhoneService,TechSupport,Churn Customer
+Month-to-month,Fiber optic,No,Yes,Electronic check,Yes,No,556
+Month-to-month,Fiber optic,No,No,Electronic check,Yes,No,95
+Month-to-month,Fiber optic,No,Yes,Bank transfer (automatic),Yes,No,87
+Month-to-month,Fiber optic,No,Yes,Credit card (automatic),Yes,No,76
+Month-to-month,DSL,No,Yes,Electronic check,No,No,57
+Month-to-month,Fiber optic,No,Yes,Electronic check,Yes,Yes,54
+Month-to-month,Fiber optic,No,Yes,Mailed check,Yes,No,53
+Month-to-month,Fiber optic,Yes,Yes,Electronic check,Yes,No,52
+Month-to-month,No,No internet service,No,Mailed check,Yes,No internet service,42
+Month-to-month,DSL,No,Yes,Electronic check,Yes,No,36
+Month-to-month,DSL,No,Yes,Mailed check,Yes,No,31
+Month-to-month,DSL,No,No,Electronic check,Yes,No,28
+Month-to-month,DSL,No,No,Mailed check,Yes,No,25
+Month-to-month,No,No internet service,Yes,Mailed check,Yes,No internet service,25
+Month-to-month,Fiber optic,No,No,Bank transfer (automatic),Yes,No,23
+Month-to-month,Fiber optic,No,No,Mailed check,Yes,No,23
+Month-to-month,DSL,No,No,Electronic check,No,No,16
+One year,Fiber optic,No,Yes,Electronic check,Yes,Yes,15
+Month-to-month,DSL,No,Yes,Mailed check,No,No,14
+One year,Fiber optic,No,Yes,Electronic check,Yes,No,14
+Month-to-month,Fiber optic,No,Yes,Mailed check,Yes,Yes,13
+Month-to-month,Fiber optic,Yes,No,Electronic check,Yes,No,13
+Month-to-month,Fiber optic,Yes,Yes,Bank transfer (automatic),Yes,No,13
+Month-to-month,DSL,Yes,Yes,Electronic check,Yes,No,12
+Month-to-month,Fiber optic,No,No,Credit card (automatic),Yes,No,12
+Month-to-month,DSL,No,Yes,Electronic check,Yes,Yes,11
+Month-to-month,Fiber optic,No,No,Electronic check,Yes,Yes,11
+Month-to-month,Fiber optic,No,Yes,Credit card (automatic),Yes,Yes,11
+Month-to-month,Fiber optic,Yes,Yes,Credit card (automatic),Yes,No,11
+Month-to-month,DSL,No,Yes,Bank transfer (automatic),Yes,No,10
+Month-to-month,Fiber optic,No,Yes,Bank transfer (automatic),Yes,Yes,10
+Month-to-month,No,No internet service,No,Bank transfer (automatic),Yes,No internet service,10
+Month-to-month,DSL,No,Yes,Credit card (automatic),Yes,No,9
+Month-to-month,Fiber optic,Yes,Yes,Bank transfer (automatic),Yes,Yes,8
+Month-to-month,Fiber optic,Yes,Yes,Mailed check,Yes,No,8
+One year,Fiber optic,No,Yes,Bank transfer (automatic),Yes,No,8
+One year,Fiber optic,Yes,Yes,Electronic check,Yes,No,8
+Month-to-month,DSL,No,No,Mailed check,Yes,Yes,7
+Month-to-month,DSL,No,Yes,Credit card (automatic),No,No,7
+Month-to-month,DSL,Yes,No,Electronic check,Yes,No,7
+Month-to-month,No,No internet service,Yes,Electronic check,Yes,No internet service,7
+Month-to-month,DSL,No,No,Credit card (automatic),Yes,No,6
+Month-to-month,DSL,No,No,Mailed check,No,No,6
+Month-to-month,DSL,No,Yes,Bank transfer (automatic),No,No,6
+Month-to-month,DSL,Yes,Yes,Mailed check,Yes,No,6
+Month-to-month,No,No internet service,No,Electronic check,Yes,No internet service,6
+One year,Fiber optic,Yes,Yes,Credit card (automatic),Yes,Yes,6
+Month-to-month,DSL,No,Yes,Credit card (automatic),Yes,Yes,5
+Month-to-month,DSL,No,Yes,Electronic check,No,Yes,5
+Month-to-month,DSL,Yes,Yes,Bank transfer (automatic),Yes,No,5
+Month-to-month,DSL,Yes,Yes,Electronic check,No,No,5
+Month-to-month,Fiber optic,Yes,Yes,Electronic check,Yes,Yes,5
+One year,Fiber optic,No,No,Electronic check,Yes,No,5
+One year,Fiber optic,No,Yes,Credit card (automatic),Yes,No,5
+Two year,Fiber optic,No,Yes,Bank transfer (automatic),Yes,Yes,5
+Month-to-month,DSL,No,No,Bank transfer (automatic),No,No,4
+Month-to-month,DSL,No,Yes,Mailed check,Yes,Yes,4
+Month-to-month,DSL,Yes,No,Electronic check,Yes,Yes,4
+Month-to-month,DSL,Yes,No,Mailed check,Yes,No,4
+Month-to-month,DSL,Yes,Yes,Credit card (automatic),Yes,No,4
+Month-to-month,DSL,Yes,Yes,Electronic check,Yes,Yes,4
+Month-to-month,Fiber optic,No,No,Credit card (automatic),Yes,Yes,4
+Month-to-month,Fiber optic,Yes,No,Bank transfer (automatic),Yes,No,4
+Month-to-month,Fiber optic,Yes,No,Credit card (automatic),Yes,No,4
+One year,DSL,No,Yes,Credit card (automatic),Yes,Yes,4
+One year,DSL,No,Yes,Mailed check,Yes,Yes,4
+One year,Fiber optic,No,Yes,Bank transfer (automatic),Yes,Yes,4
+One year,Fiber optic,Yes,Yes,Bank transfer (automatic),Yes,Yes,4
+One year,Fiber optic,Yes,Yes,Credit card (automatic),Yes,No,4
+One year,No,No internet service,No,Bank transfer (automatic),Yes,No internet service,4
+Month-to-month,DSL,No,No,Credit card (automatic),No,No,3
+Month-to-month,DSL,No,No,Credit card (automatic),Yes,Yes,3
+Month-to-month,DSL,No,No,Electronic check,Yes,Yes,3
+Month-to-month,DSL,No,Yes,Mailed check,No,Yes,3
+Month-to-month,DSL,Yes,No,Bank transfer (automatic),No,No,3
+Month-to-month,DSL,Yes,No,Credit card (automatic),Yes,Yes,3
+Month-to-month,DSL,Yes,No,Mailed check,No,Yes,3
+Month-to-month,DSL,Yes,Yes,Mailed check,Yes,Yes,3
+Month-to-month,Fiber optic,No,No,Bank transfer (automatic),Yes,Yes,3
+Month-to-month,Fiber optic,Yes,No,Electronic check,Yes,Yes,3
+Month-to-month,Fiber optic,Yes,No,Mailed check,Yes,No,3
+Month-to-month,Fiber optic,Yes,Yes,Credit card (automatic),Yes,Yes,3
+Month-to-month,No,No internet service,No,Credit card (automatic),Yes,No internet service,3
+Month-to-month,No,No internet service,Yes,Bank transfer (automatic),Yes,No internet service,3
+Month-to-month,No,No internet service,Yes,Credit card (automatic),Yes,No internet service,3
+One year,DSL,No,Yes,Mailed check,Yes,No,3
+One year,DSL,Yes,No,Credit card (automatic),Yes,No,3
+One year,DSL,Yes,No,Credit card (automatic),Yes,Yes,3
+One year,DSL,Yes,Yes,Credit card (automatic),Yes,Yes,3
+One year,Fiber optic,No,No,Mailed check,Yes,No,3
+One year,Fiber optic,No,Yes,Credit card (automatic),Yes,Yes,3
+One year,Fiber optic,Yes,Yes,Bank transfer (automatic),Yes,No,3
+One year,Fiber optic,Yes,Yes,Electronic check,Yes,Yes,3
+Two year,DSL,Yes,No,Credit card (automatic),Yes,Yes,3
+Two year,Fiber optic,No,Yes,Bank transfer (automatic),Yes,No,3
+Two year,Fiber optic,No,Yes,Electronic check,Yes,No,3
+Two year,Fiber optic,No,Yes,Electronic check,Yes,Yes,3
+Two year,Fiber optic,Yes,No,Bank transfer (automatic),Yes,Yes,3
+Two year,Fiber optic,Yes,Yes,Credit card (automatic),Yes,Yes,3
+Two year,Fiber optic,Yes,Yes,Electronic check,Yes,Yes,3
+Month-to-month,DSL,No,No,Bank transfer (automatic),Yes,No,2
+Month-to-month,DSL,No,No,Bank transfer (automatic),Yes,Yes,2
+Month-to-month,DSL,No,No,Credit card (automatic),No,Yes,2
+Month-to-month,DSL,No,Yes,Bank transfer (automatic),Yes,Yes,2
+Month-to-month,DSL,Yes,No,Credit card (automatic),No,No,2
+Month-to-month,DSL,Yes,No,Credit card (automatic),Yes,No,2
+Month-to-month,DSL,Yes,No,Mailed check,No,No,2
+Month-to-month,DSL,Yes,No,Mailed check,Yes,Yes,2
+Month-to-month,DSL,Yes,Yes,Credit card (automatic),No,Yes,2
+Month-to-month,DSL,Yes,Yes,Electronic check,No,Yes,2
+Month-to-month,Fiber optic,Yes,Yes,Mailed check,Yes,Yes,2
+One year,DSL,No,Yes,Bank transfer (automatic),No,No,2
+One year,DSL,No,Yes,Bank transfer (automatic),Yes,Yes,2
+One year,DSL,No,Yes,Credit card (automatic),Yes,No,2
+One year,DSL,No,Yes,Electronic check,No,No,2
+One year,DSL,Yes,No,Bank transfer (automatic),Yes,Yes,2
+One year,DSL,Yes,No,Mailed check,Yes,Yes,2
+One year,DSL,Yes,Yes,Electronic check,No,No,2
+One year,Fiber optic,No,No,Bank transfer (automatic),Yes,Yes,2
+One year,Fiber optic,No,No,Credit card (automatic),Yes,No,2
+One year,Fiber optic,No,No,Electronic check,Yes,Yes,2
+One year,Fiber optic,Yes,No,Credit card (automatic),Yes,Yes,2
+One year,Fiber optic,Yes,No,Electronic check,Yes,No,2
+One year,Fiber optic,Yes,No,Electronic check,Yes,Yes,2
+Two year,Fiber optic,Yes,Yes,Bank transfer (automatic),Yes,No,2
+Month-to-month,DSL,No,No,Bank transfer (automatic),No,Yes,1
+Month-to-month,DSL,No,No,Electronic check,No,Yes,1
+Month-to-month,DSL,No,No,Mailed check,No,Yes,1
+Month-to-month,DSL,No,Yes,Bank transfer (automatic),No,Yes,1
+Month-to-month,DSL,No,Yes,Credit card (automatic),No,Yes,1
+Month-to-month,DSL,Yes,No,Bank transfer (automatic),No,Yes,1
+Month-to-month,DSL,Yes,No,Bank transfer (automatic),Yes,No,1
+Month-to-month,DSL,Yes,No,Electronic check,No,No,1
+Month-to-month,DSL,Yes,Yes,Bank transfer (automatic),No,No,1
+Month-to-month,DSL,Yes,Yes,Credit card (automatic),No,No,1
+Month-to-month,DSL,Yes,Yes,Mailed check,No,No,1
+Month-to-month,DSL,Yes,Yes,Mailed check,No,Yes,1
+Month-to-month,Fiber optic,Yes,No,Bank transfer (automatic),Yes,Yes,1
+Month-to-month,Fiber optic,Yes,No,Credit card (automatic),Yes,Yes,1
+One year,DSL,No,No,Bank transfer (automatic),No,No,1
+One year,DSL,No,No,Credit card (automatic),Yes,No,1
+One year,DSL,No,No,Mailed check,No,No,1
+One year,DSL,No,No,Mailed check,No,Yes,1
+One year,DSL,No,No,Mailed check,Yes,Yes,1
+One year,DSL,No,Yes,Bank transfer (automatic),No,Yes,1
+One year,DSL,No,Yes,Bank transfer (automatic),Yes,No,1
+One year,DSL,No,Yes,Credit card (automatic),No,No,1
+One year,DSL,No,Yes,Electronic check,No,Yes,1
+One year,DSL,No,Yes,Electronic check,Yes,No,1
+One year,DSL,No,Yes,Electronic check,Yes,Yes,1
+One year,DSL,No,Yes,Mailed check,No,No,1
+One year,DSL,Yes,No,Electronic check,No,No,1
+One year,DSL,Yes,No,Electronic check,Yes,Yes,1
+One year,DSL,Yes,Yes,Bank transfer (automatic),Yes,No,1
+One year,DSL,Yes,Yes,Bank transfer (automatic),Yes,Yes,1
+One year,DSL,Yes,Yes,Electronic check,Yes,No,1
+One year,DSL,Yes,Yes,Electronic check,Yes,Yes,1
+One year,DSL,Yes,Yes,Mailed check,Yes,Yes,1
+One year,Fiber optic,No,No,Bank transfer (automatic),Yes,No,1
+One year,Fiber optic,No,No,Credit card (automatic),Yes,Yes,1
+One year,Fiber optic,No,Yes,Mailed check,Yes,No,1
+One year,Fiber optic,Yes,No,Bank transfer (automatic),Yes,No,1
+One year,Fiber optic,Yes,No,Mailed check,Yes,Yes,1
+One year,Fiber optic,Yes,Yes,Mailed check,Yes,No,1
+One year,Fiber optic,Yes,Yes,Mailed check,Yes,Yes,1
+One year,No,No internet service,No,Credit card (automatic),Yes,No internet service,1
+One year,No,No internet service,No,Electronic check,Yes,No internet service,1
+One year,No,No internet service,No,Mailed check,Yes,No internet service,1
+One year,No,No internet service,Yes,Electronic check,Yes,No internet service,1
+One year,No,No internet service,Yes,Mailed check,Yes,No internet service,1
+Two year,DSL,No,No,Credit card (automatic),Yes,Yes,1
+Two year,DSL,No,No,Electronic check,No,No,1
+Two year,DSL,No,Yes,Bank transfer (automatic),Yes,No,1
+Two year,DSL,No,Yes,Electronic check,No,No,1
+Two year,DSL,Yes,No,Bank transfer (automatic),Yes,Yes,1
+Two year,DSL,Yes,No,Electronic check,No,Yes,1
+Two year,DSL,Yes,Yes,Bank transfer (automatic),Yes,Yes,1
+Two year,DSL,Yes,Yes,Credit card (automatic),Yes,Yes,1
+Two year,DSL,Yes,Yes,Electronic check,Yes,No,1
+Two year,Fiber optic,No,No,Bank transfer (automatic),Yes,No,1
+Two year,Fiber optic,No,Yes,Credit card (automatic),Yes,Yes,1
+Two year,Fiber optic,No,Yes,Mailed check,Yes,Yes,1
+Two year,Fiber optic,Yes,No,Credit card (automatic),Yes,Yes,1
+Two year,Fiber optic,Yes,Yes,Bank transfer (automatic),Yes,Yes,1
+Two year,Fiber optic,Yes,Yes,Credit card (automatic),Yes,No,1
+Two year,No,No internet service,No,Bank transfer (automatic),Yes,No internet service,1
+Two year,No,No internet service,No,Credit card (automatic),Yes,No internet service,1
+Two year,No,No internet service,No,Mailed check,Yes,No internet service,1
+Two year,No,No internet service,Yes,Credit card (automatic),Yes,No internet service,1
+Two year,No,No internet service,Yes,Mailed check,Yes,No internet service,1
