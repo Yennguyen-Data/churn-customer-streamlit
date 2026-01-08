@@ -853,10 +853,6 @@ pipe_xgb = Pipeline([
 
    
 if choice == 'New Customer Prediction':
-    import streamlit as st
-    import pandas as pd
-    import matplotlib.pyplot as plt
-    from ortools.linear_solver import pywraplp
 
     st.title("Customer Churn Prediction & Strategy Optimization")
 
@@ -1197,5 +1193,6 @@ if choice == 'New Customer Prediction':
 
                     else:
                         st.error(" No optimal solution found under the given budget.")
+
 
                     
