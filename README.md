@@ -1,6 +1,9 @@
 # churn-customer-streamlit
 Customer churn analysis and prediction project using Python, XGBoost, Streamlit, and Power BI.
 
+Link Deployed Project:
+https://churn-customer-app-jty4ei9hyddpnd4hvtm2xt.streamlit.app/
+
 # Customer Churn Analysis & Prediction
 ##  Project Overview
 This project focuses on analyzing and predicting customer churn in the telecommunications industry.
